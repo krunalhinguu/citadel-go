@@ -4,7 +4,7 @@ This is a basic library application that provides an API for managing book detai
 
 ## Requirements
 
-- Go programming language (version 1.16 or higher)
+- Go programming language (version 1.20)
 - PostgreSQL database
 - `github.com/lib/pq` package for PostgreSQL driver (automatically installed during setup)
 
